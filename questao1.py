@@ -1,14 +1,14 @@
-#FOR
+# FOR
 for n in range(8452):
     print("Ryan")
 
-#WHILE
+# WHILE
 contador = 0
 while contador < 8452:
     contador += 1
     print("Ryan")
 
-#FUÇÃO RECURCIVA
+# FUÇÃO RECURCIVA
 def repetir_nome(vezes):
     if vezes == 0:
         return
